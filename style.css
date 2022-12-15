@@ -17,3 +17,13 @@ h1{
 img {
     margin-left: 300px;
 }
+
+section{
+    background-color: lightgrey;
+}
+
+.head{
+    text-align: center;
+    padding: 10px;
+}
+
