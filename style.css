@@ -4,7 +4,11 @@ body{
 }
 
 header{
-    background-color: lightgray;
+    padding: 20px 0;
+}
+
+.head1{
+    background-color: lightgrey;
     padding: 20px;
 }
 
@@ -14,16 +18,48 @@ h1{
     font-size: 45px;
 }
 
-img {
-    margin-left: 300px;
+.image{
+    background-color: #fff;
+    margin: auto;
+    width: 900px;
+}
+
+img{
+    background-color: #fff;
 }
 
 section{
     background-color: lightgrey;
 }
 
+
 .head{
     text-align: center;
     padding: 10px;
 }
 
+ul{
+    width: 500px;
+    margin: auto;
+    padding: 13px;
+}
+
+li{
+    padding: 10px;
+}
+
+article{
+    width: 600px;
+    margin: auto;
+}
+
+.paragrah-quote{
+    font-size: 18px;
+}
+
+h3{
+    width: 900px;
+    margin: auto;
+    padding: 45px;
+    font-size: 20px;
+}
