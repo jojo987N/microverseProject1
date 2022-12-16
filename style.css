@@ -1,14 +1,12 @@
 body{
     margin: 0;
     padding: 0;
+    background-color:   #e6e6e6
+;
 }
 
 header{
-    padding: 20px 0;
-}
-
-.head1{
-    background-color: lightgrey;
+    background-color: lightgray;
     padding: 20px;
 }
 
@@ -18,48 +16,11 @@ h1{
     font-size: 45px;
 }
 
-.image{
-    background-color: #fff;
-    margin: auto;
-    width: 900px;
+img {
+    margin-left: 300px;
 }
 
-img{
-    background-color: #fff;
-}
-
-section{
-    background-color: lightgrey;
-}
-
-
-.head{
+/* .text_italic p{
     text-align: center;
-    padding: 10px;
-}
-
-ul{
-    width: 500px;
-    margin: auto;
-    padding: 13px;
-}
-
-li{
-    padding: 10px;
-}
-
-article{
-    width: 600px;
-    margin: auto;
-}
-
-.paragrah-quote{
-    font-size: 18px;
-}
-
-h3{
-    width: 900px;
-    margin: auto;
-    padding: 45px;
-    font-size: 20px;
-}
+    
+} */
